@@ -1,3 +1,5 @@
-### Hi, I'm Atabek. 👨‍💻
-#### Passionate Software Engineering student, based in Turkey. 
-![CV](Resume_eng_page-0001.jpg)
+### Hi, I'm Atabek Aribzhanov
+
+- 👨‍💻 I've been coding in Python for 1 year
+- 📚 I’m learning Go and Javascript at the moment
+- 🌏 You can connect with me on [Linkedin](https://www.linkedin.com/in/atabekdev/)
