@@ -1,4 +1,4 @@
-### Hi, I'm Atabek Aribzhanov
+### Hi, I'm Atabek
 
 - 👨‍💻 I've been coding in Python for 1 year
 - 📚 I’m learning Go and Javascript at the moment
